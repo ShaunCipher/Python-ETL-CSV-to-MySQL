@@ -1,0 +1,4 @@
+sqlalchemy
+pandas
+pymysql 
+# Copy paste to terminal: pip install -r requirements.txt
